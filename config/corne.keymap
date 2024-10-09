@@ -29,7 +29,7 @@
                 control_layer {
                         bindings = <
    &kp ESC    &trans      &trans       &kp UP       &trans       &trans         &trans   &trans   &trans &trans    &trans &trans
-   &trans    &trans   &kpLEFT      &kp DOWN     &kp RIGHT &trans      &trans &transP &kp HOME &kp PG_UP &kp BSPC &trans
+   &trans    &trans   &kp LEFT      &kp DOWN     &kp RIGHT &trans      &trans &transP &kp HOME &kp PG_UP &kp BSPC &trans
    &kp LSHFT  &trans     &trans       &trans       &trans       &trans     &trans   &kp DEL   &kp END &kp PG_DN  &trans &kp RSHFT
                                      &kp LCTRL &trans   &kp LGUI   &trans   &kp SPACE   &kp RALT
                         >;
