@@ -13,9 +13,6 @@
 #define NUMPD 3
 #define SETTG 4
 
-&caps_word {
-    continue-list = <LFSHIT RSHIFT>;
-};
 / {
         keymap {
                 compatible = "zmk,keymap";
