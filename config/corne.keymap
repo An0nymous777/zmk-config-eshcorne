@@ -68,7 +68,7 @@
    &trans &trans   &trans &trans   &trans   &trans   &trans &trans   &trans &trans   &trans   &trans
    &trans  &trans       &trans       &trans       &trans       &trans         &trans   &trans   &trans &trans    &trans &trans
                                     &kp LCMD     &trans       &lt SETTG LCTRL      &trans &trans &trans
-                        >;e
+                        >;
                 };
         };
 };
