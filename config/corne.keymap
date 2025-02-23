@@ -13,7 +13,7 @@
 #define NUMPD 3
 #define SETTG 4
 #define MAC 5
-#defind GAME 6
+#define GAME 6
 
 / {
         keymap {
